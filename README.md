@@ -1,4 +1,4 @@
-# Welcome to the Music Store SQL Adventure! 🎶
+# Welcome to the Music Store SQL Analysis! 🎶
 
 Hey there! Thanks for checking out this project. It’s a fun collection of SQL queries that dive into a music store database to answer some cool business questions. Whether you’re a SQL newbie or a seasoned pro, these queries will help you explore customer habits, top-selling artists, and more. Let’s get started!
 
