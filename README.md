@@ -66,5 +66,8 @@ The queries are split into three levels, so there’s something for everyone:
 ## Wanna Add to the Fun?
 Love the project? Fork it, tweak it, or suggest new queries! Open an issue or send a pull request with your ideas.
 
+## Contact
+For questions or feedback, please open an issue on the GitHub repository or contact the project maintainer at [tarikul00001@gmail.com].
+
 
 Happy querying. 🎸
