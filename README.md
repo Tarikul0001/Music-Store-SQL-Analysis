@@ -19,7 +19,7 @@ The music store database is packed with tables that hold all the juicy details:
 ## What’s in the Query Stash?
 The queries are split into three levels, so there’s something for everyone:
 
-### Easy Peasy Queries
+### Easy Challenges
 1. **Who’s the Big Boss?**: Finds the employee with the fanciest job title.
 2. **Invoice Hotspots**: Shows which countries are racking up the most invoices.
 3. **Biggest Spenders**: Lists the top 3 invoice totals.
@@ -31,7 +31,7 @@ The queries are split into three levels, so there’s something for everyone:
 2. **Rock Band Royalty**: Lists the top 10 Rock artists with the most tracks.
 3. **Epic Jams**: Finds tracks longer than the average song, sorted by length.
 
-### Advanced Quests
+### Advanced Challenges
 1. **Artist Fan Spending**: Shows how much each customer spent on the top-selling artist.
 2. **Genre Kings by Country**: Finds the most popular music genre in each country.
 3. **Country’s Top Shoppers**: Tracks down the biggest spenders in each country.
